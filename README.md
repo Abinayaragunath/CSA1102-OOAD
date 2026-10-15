@@ -42,4 +42,4 @@ The main objective of this system is to ensure accurate verification of passport
 - **UML Tool:** Umbrello UML Modeller
 
 ### Project Document
-[View Passport Management System PDF](Doc1%20%282%29.pdf)
+[Open Passport Management System PDF](https://github.com/Abinayaragunath/CSA1102-OOAD/blob/main/Doc1%20%282%29.pdf)
